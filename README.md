@@ -5,4 +5,5 @@ To create an application to show the current weather of a city as well as its fi
 
 ## Demo
 https://mrxanthic.github.io/Weather-Dashboard/
+
 ![Screenshot](https://github.com/mrxanthic/Weather-Dashboard/blob/main/assets/img/screenshot.PNG)
